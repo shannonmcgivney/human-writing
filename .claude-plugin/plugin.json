@@ -1,0 +1,7 @@
+{
+  "name": "human",
+  "version": "1.0.0",
+  "description": "Rewrite any draft so it reads like a person wrote it, with none of the common AI-writing tells, plus a check.py linter that flags them.",
+  "author": { "name": "McGivney Media", "email": "shannon@mcgivneymedia.com" },
+  "keywords": ["writing", "humanize", "ai-writing", "editing", "voice"]
+}
